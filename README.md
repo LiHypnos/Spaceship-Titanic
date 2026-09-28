@@ -304,7 +304,7 @@ Kaggle User: Lianxx
 O principal arquivo deste repositório é:
 
 ```text
-spaceship_titanic_v3(1).ipynb
+spaceship_titanic_v3.ipynb
 ```
 
 O notebook contém todo o processo utilizado no trabalho:
